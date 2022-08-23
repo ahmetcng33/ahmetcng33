@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href=>
   <img  src="https://github.com/ahmetcng33/y-lan/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
