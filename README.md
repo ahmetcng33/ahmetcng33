@@ -33,4 +33,4 @@
   <a href="#">
     <img src="https://activity-graph.herokuapp.com/graph?username=ahmetcng33&theme=react-dark" />
   </a>
-</div>dth="50%" > </p>
+</div>
