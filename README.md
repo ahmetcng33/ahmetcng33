@@ -1,8 +1,9 @@
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Ahmet+ÇINGI;Welcome+to+my+Github+profile;I'm+Fullstack+Developer...;)](https://git.io/typing-svg)
 <p align="center">
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet47502a238/) 
-<a href="https://github.com/ahmetcng33" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=ahmetcng33" alt="visitor counter"/>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmet47502a238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmet47502a238/" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmetcng333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onurtahsinkizilay" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=ahmetcng33" alt="visitor counter"/>
 </p>
 
 
