@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Full-stack devolopment at Clarusway**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmetcng33?tab=repositories](https://github.com/ahmetcng33?tab=repositories)
-
 - 📫 How to reach me **ahmetcingi333@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
