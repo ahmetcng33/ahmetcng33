@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ahmet</h1>
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Ahmet+ÇINGI;Welcome+to+my+Github+profile;I'm+Fullstack+Developer...;)](https://git.io/typing-svg)
+<p align="center">
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet47502a238/) 
+<a href="https://github.com/ahmetcng33" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=ahmetcng33" alt="visitor counter"/>
+</p>
+
 <h3 align="center">A passionate frontend developer Turkey</h3>
 
 - 🌱 I’m currently learning **Full-stack devolopment at Clarusway**
