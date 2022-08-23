@@ -11,7 +11,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/ahmetcng33/ahmetcng33/main/hmm-mmm.gif" width="700" height="900">
+<img src="https://raw.githubusercontent.com/ahmetcng33/ahmetcng33/main/hmm-mmm.gif" width="500" height="700">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
