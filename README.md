@@ -2,8 +2,8 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ahmet47502a238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmet47502a238/" height="30" width="40" /></a>
-<a href="ahmetcng333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmetcng333" height="30" width="40" /></a>
-<img src="https://komarev.com/ghpvc/?username=ahmetcng333" alt="visitor counter"/>
+<a href="https://www.instagram.com/ahmetcingi333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmetcingi333" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=ahmetcingi333" alt="visitor counter"/>
 </p>
 
 
