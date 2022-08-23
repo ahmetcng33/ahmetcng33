@@ -31,7 +31,6 @@
 </div>
 <br>
 <div align="center">
-  <a href="#">
     <img src="https://activity-graph.herokuapp.com/graph?username=ahmetcng33&theme=react-dark" />
   </a>
 </div>
