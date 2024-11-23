@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Full-stack devolopment at Clarusway**
+- 🌱 I’m currently learning **Flutter Developer**
 
 - 📫 How to reach me **ahmetcingi333@gmail.com**
 
